@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="saludo_color">#13D01B</color>
+    <color name="tarea_color">#FF9600</color>
+    <color name="tarea_color_fondo">#761805</color>
+</resources>

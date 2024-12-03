@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sw2024bgr1_jdmn</string>
+    <string name="saludo">Hello Friends</string>
+    <color name="saludo_color">#B4700B</color>
+
+    <string name="text_condition" translatable="false"></string>
+    <string name="tarea1">Hello, it´s homework 1</string>
+    <color name="tarea_color">#B73A3A</color>
+
+
+</resources>

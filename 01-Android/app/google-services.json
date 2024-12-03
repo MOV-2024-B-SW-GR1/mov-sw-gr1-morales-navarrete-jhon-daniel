@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077396412341",
+    "project_id": "mov-2024b-sw-gr1-jdmn",
+    "storage_bucket": "mov-2024b-sw-gr1-jdmn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077396412341:android:6bc4faa5b644834f926bfc",
+        "android_client_info": {
+          "package_name": "com.example.sw2024bgr1_jdmn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbAex9evBT5m5vGk_ibcG4P1O49K3AbX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

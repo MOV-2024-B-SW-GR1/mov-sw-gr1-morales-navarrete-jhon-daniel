@@ -1,0 +1,1 @@
+1,Juan Perez,Urología,1987-10-12,3512.0,true,[101,Jhon Morales,2002-07-04,Cálculos en riñón,987745620,215.0]
