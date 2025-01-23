@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DoctorPacienteApp</string>
+    <string name="button_add_doctor">Añadir Doctor</string>
+    <string name="button_add_paciente">Añadir Paciente</string>
+    <string name="button_save">Guardar</string>
+    <string name="hint_doctor_name">Nombre del Doctor</string>
+    <string name="hint_paciente_name">Nombre del Paciente</string>
+    <string name="button_delete">Eliminar</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="title_activity_main">Gestión de Doctores</string>
+
+</resources>
+
